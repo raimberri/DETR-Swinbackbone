@@ -5,8 +5,8 @@ DETR implementation using self-implemented SwinTransformer as backbone.
 2. Python 3.10
 3. PyTorch 1.11
 ## Results
-Model trained on 1 single GPU(2080 Ti)
-Only trained 
+Model trained on 1 single GPU(2080 Ti)  
+Only trained 12 epochs, didn't converge yet.
 ## Reference
 Code modified from:  
 https://github.com/facebookresearch/detr  
