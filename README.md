@@ -6,7 +6,7 @@ DETR implementation using self-implemented SwinTransformer as backbone.
 3. PyTorch 1.11
 ## Results
 Model trained on 1 single GPU(2080 Ti)
-
+Only trained 
 ## Reference
 Code modified from:  
 https://github.com/facebookresearch/detr  
